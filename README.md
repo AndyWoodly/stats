@@ -24,6 +24,6 @@ pip install -r requirements.txt
 ```bash
 source venv/bin/activate
 pip install ipykernel
-ipython kernel install --user --name=news
+ipython kernel install --user --name=stats
 jupyter notebook
 ```
